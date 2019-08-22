@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test on 1st 1/2 = Me</title>
+    <link>thefirsthalfofme.github.io/tags/test/</link>
+    <description>Recent content in test on 1st 1/2 = Me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 22 Aug 2019 00:40:01 -0700</lastBuildDate>
+    
+	<atom:link href="thefirsthalfofme.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>thefirsthalfofme.github.io/posts/test/</link>
+      <pubDate>Thu, 22 Aug 2019 00:40:01 -0700</pubDate>
+      
+      <guid>thefirsthalfofme.github.io/posts/test/</guid>
+      <description>the start of this first we have things as I say
+then we have other things bro today we got code
+derpin&amp;rsquo;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 1st 1/2 = Me</title>
+    <link>thefirsthalfofme.github.io/tags/</link>
+    <description>Recent content in Tags on 1st 1/2 = Me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 22 Aug 2019 00:40:01 -0700</lastBuildDate>
+    
+	<atom:link href="thefirsthalfofme.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>derp</title>
+      <link>thefirsthalfofme.github.io/tags/derp/</link>
+      <pubDate>Thu, 22 Aug 2019 00:40:01 -0700</pubDate>
+      
+      <guid>thefirsthalfofme.github.io/tags/derp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>thefirsthalfofme.github.io/tags/test/</link>
+      <pubDate>Thu, 22 Aug 2019 00:40:01 -0700</pubDate>
+      
+      <guid>thefirsthalfofme.github.io/tags/test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

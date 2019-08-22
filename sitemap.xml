@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>thefirsthalfofme.github.io/</loc>
+    <lastmod>2019-08-22T00:40:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>thefirsthalfofme.github.io/tags/derp/</loc>
+    <lastmod>2019-08-22T00:40:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>thefirsthalfofme.github.io/posts/</loc>
+    <lastmod>2019-08-22T00:40:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>thefirsthalfofme.github.io/tags/</loc>
+    <lastmod>2019-08-22T00:40:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>thefirsthalfofme.github.io/posts/test/</loc>
+    <lastmod>2019-08-22T00:40:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>thefirsthalfofme.github.io/tags/test/</loc>
+    <lastmod>2019-08-22T00:40:01-07:00</lastmod>
+  </url>
+  
+</urlset>
